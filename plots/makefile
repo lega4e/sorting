@@ -1,0 +1,2 @@
+run:
+	gnuplot plot.plt -
